@@ -7,7 +7,7 @@ include_in_header: false
 
 Privacy Policy
 
-Abilo Development built the Apps as a Freemium apps. This APPS is provided by Abilo Development at no cost and is intended for use as is.
+Hanna Sherbachuk built the Apps as a Freemium apps. This APPS is provided by Hanna Sherbachuk at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Apps.
 
@@ -66,4 +66,4 @@ This policy is effective as of 2021-07-07
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact us at abilodevelopment@gmail.com.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact us at hannasherbachuk@gmail.com.
