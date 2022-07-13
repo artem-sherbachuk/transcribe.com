@@ -2,7 +2,7 @@
 page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1628084179                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1634277485                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
@@ -35,15 +35,15 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Live dictation to text
+  - title                                 : Live dictation to text in 132 langauges
     description                           : 
     fontawesome_icon_name                 : font
 
-  - title                                 : Transcribe audio / video files  to text
+  - title                                 : Transcribe audio and voice memos
     description                           : 
     fontawesome_icon_name                 : font
 
-  - title                                 : +63 Languages Dictation to Text
+  - title                                 : Transcribe event on the distance of 5m
     description                           : 
     fontawesome_icon_name                 : globe
 
